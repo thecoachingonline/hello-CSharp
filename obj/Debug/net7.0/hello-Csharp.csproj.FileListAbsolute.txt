@@ -1,0 +1,15 @@
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.csproj.AssemblyReference.cache
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.AssemblyInfoInputs.cache
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.AssemblyInfo.cs
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.csproj.CoreCompileInputs.cache
+/workspaces/hello-Csharp/bin/Debug/net7.0/hello-Csharp
+/workspaces/hello-Csharp/bin/Debug/net7.0/hello-Csharp.deps.json
+/workspaces/hello-Csharp/bin/Debug/net7.0/hello-Csharp.runtimeconfig.json
+/workspaces/hello-Csharp/bin/Debug/net7.0/hello-Csharp.dll
+/workspaces/hello-Csharp/bin/Debug/net7.0/hello-Csharp.pdb
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.dll
+/workspaces/hello-Csharp/obj/Debug/net7.0/refint/hello-Csharp.dll
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.pdb
+/workspaces/hello-Csharp/obj/Debug/net7.0/hello-Csharp.genruntimeconfig.cache
+/workspaces/hello-Csharp/obj/Debug/net7.0/ref/hello-Csharp.dll
